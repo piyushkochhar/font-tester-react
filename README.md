@@ -2,7 +2,7 @@
 
 It's a Font Tester in react.
 
-![alt text](https://github.com/piyushkochhar/font-tester-react/src/font-tester.png "Font Tester")
+![alt text](https://github.com/piyushkochhar/font-tester-react/tree/master/src/font-tester.png "Font Tester")
 
 # Steps to run
 
