@@ -18,4 +18,4 @@ To run the app locally:
 
  - cd font-tester-react 
  - npm install 
- - open  http://localhost:8080
+ - open localhost
