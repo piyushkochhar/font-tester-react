@@ -1,6 +1,4 @@
-# Welcome to React Calculator!
-
-It's a Font Tester in react.
+# Welcome to React Font Tester!
 
 ![alt text](https://github.com/piyushkochhar/font-tester-react/blob/master/src/font-tester.png "Font Tester")
 
