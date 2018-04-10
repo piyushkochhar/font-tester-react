@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css?family=Hi+Melody|Indie+Flower|Jua|Playfair+Display|Gloria+Hallelujah|Dancing+Script|Amatic+SC');
+
+
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height : 200px;
+    width : auto;
+    font-size: 50px;
+}
+.box {
+    border : 1px solid lightgray;
+    margin : 20px;
+    height: 50px;
+    width : calc(100% - 250px);
+    font-size : 30px;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    padding-left: 10px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.input{
+    display: block;
+    height: 50px;
+    width: calc(100% - 50px);
+    border : 2px solid rgba(42, 221, 123, 0.808);
+}
+
+.font-info{
+    height: 54px;
+    width: 200px;
+    color: white;
+    background: #5B99D3;
+    margin-left: 20px;
+    float : left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.gloria{
+    font-family: 'Gloria Hallelujah', sans-serif;
+}
+
+.melody{
+    font-family: 'Hi Melody', sans-serif;
+}
+
+.playfair{
+    font-family: 'Playfair Display', serif;
+}
+
+.indie-flower{
+    font-family: 'Indie Flower', serif;
+}
+
+.jua{
+    font-family: 'Jua', sans-serif;
+}
+
+.dancing-script{
+    font-family: 'Dancing Script', serif;
+}
+
+.amatic{
+    font-family: 'Amatic SC',serif;
+}
